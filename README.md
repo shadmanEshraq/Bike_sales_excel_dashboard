@@ -36,6 +36,8 @@ From our initial analysis, we tried to find any possible relationship considerin
 - On which age group most of the buyers are?
 - Is there any correlation between buying a bike and the commute distance of a customer?
 
+![Add Image](/Images/db_screenshot.PNG)  
+
 The dashboard can also be filtered by the participants' marital status, education level, and region. 
 
 The live dashboard is [here](https://www.novypro.com/project/bike-sales-dashboard-6)
